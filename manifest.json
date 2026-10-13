@@ -1,0 +1,75 @@
+{
+  "id": "https://qaiumportfolio.blogspot.com/",
+  "name": "Md. Qaium Miah | Software Solutions Developer & Automation",
+  "short_name": "Qaium Miah",
+  "description": "Software solutions developer and automation specialist based in the UAE — web apps, workflow automation, and data-driven dashboards.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "https://qaiumportfolio.blogspot.com/",
+  "scope": "https://qaiumportfolio.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#101B33",
+  "theme_color": "#101B33",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lazimfix/qaium-pwa@main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lazimfix/qaium-pwa@main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lazimfix/qaium-pwa@main/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/lazimfix/qaium-pwa@main/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Discuss Your Project",
+      "short_name": "Contact",
+      "url": "https://qaiumportfolio.blogspot.com/#contact",
+      "icons": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/lazimfix/qaium-pwa@main/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "View Projects",
+      "short_name": "Projects",
+      "url": "https://qaiumportfolio.blogspot.com/#projects",
+      "icons": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/lazimfix/qaium-pwa@main/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxbfS5DwgH0V5heNdz-Kt93KMFlDj8-8kcqU17KCdoDU11u6g6ua6vi_3y8hRuY054cOVEYrCqU9UXcXd1F1EEIGKHNBPokLADw-EgExyteQQCuOb5E7fETUCen_yl9ktq09pbpqHqVX_KMkBK5DbVr8uo0w5nrdPemGpC6AEsx0xbs0fkVJkCpG_ZIjM/s1600/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Md. Qaium Miah — Software Solutions Developer portfolio"
+    }
+  ]
+}
